@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [My Portfolio Website](https://github.com/Saber-Haste/my-portfolio)
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Web Design**
 
 - 📫 How to reach me **binoychullikkal@gmail.com**
 
